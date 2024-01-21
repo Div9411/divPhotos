@@ -1,6 +1,6 @@
 # DivPhotos - Search Your Favorite Image Instantly
 
-DivPhotos is a fully-responsive web application designed to simplify the photh searching and downloading process .
+DivPhotos is a fully-responsive web application designed to simplify the photo searching and downloading process .
 
 Visit DivPhotos: https://divphotos.netlify.app/
 
